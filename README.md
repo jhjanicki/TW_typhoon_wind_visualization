@@ -13,9 +13,11 @@
 
 ## Data
 NOAA
+- NOMADS Data at NCEP: https://nomads.ncep.noaa.gov/
+1. Parameters: GFS sflux, UGRID, VGRID, 1 hybrid level
+2. We will get a GRIB file, will need to convert it to a .nc file 
 
 Some other wind sources: 
-- NOMADS Data at NCEP: https://nomads.ncep.noaa.gov/
 - NCEI GFS: https://www.ncei.noaa.gov/products/weather-climate-models/global-forecast
 - Copernicus: https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=form
 
