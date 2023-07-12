@@ -1,4 +1,4 @@
-# Visualize wind speed
+# Visualize wind speed, focus on typhoon in Taiwan
 
 ## Process
 1. Load in necessary libraries
