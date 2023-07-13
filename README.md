@@ -24,6 +24,7 @@ Some other wind sources:
 
 ## Some example outputs (testing different colors)
 Global map
+
 <img width="800" alt="Screenshot 2023-07-10 at 15 06 33" src="https://github.com/jhjanicki/TW_typhoon_wind_visualization/assets/6565011/45c86442-b80f-4ed3-98c0-e8eb66396ee0">
 
 Global map with Robinson projection
