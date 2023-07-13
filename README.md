@@ -13,7 +13,7 @@
 
 ## Data
 NOAA
-- NOMADS Data at NCEP: https://nomads.ncep.noaa.gov/
+- NOMADS Data at NCEP: https://nomads.ncep.noaa.gov/gribfilter.php?ds=gfs_sflux
 1. Parameters: GFS sflux, UGRID, VGRID, 1 hybrid level
 2. We will get a GRIB file, will need to convert it to a .nc file 
 
