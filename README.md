@@ -31,6 +31,7 @@ Global map with Robinson projection
 <img width="800" alt="Screenshot 2023-07-13 at 15 56 25" src="https://github.com/jhjanicki/TW_typhoon_wind_visualization/assets/6565011/37566b7b-f8b3-4a30-bee3-8d20822b32c2">
 
 Map zoomed into Taiwan
+
 <img width="400" alt="Screenshot 2023-07-13 at 15 56 38" src="https://github.com/jhjanicki/TW_typhoon_wind_visualization/assets/6565011/59e055a0-8157-46d9-b1ee-38337c83c2c6">
 
 
